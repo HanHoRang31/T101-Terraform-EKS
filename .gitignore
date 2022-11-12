@@ -7,4 +7,6 @@
 terraform.tfstate
 terraform.tfstate.backup
 .pluralith
+pluralith.yml
+eks-terraform-key.pem
 .eks-terraform-key.pem
